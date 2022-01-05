@@ -10,7 +10,9 @@ No installation necessary unless you plan to make changes to the code on your lo
 
 ## Usage
 
-To use this application you can vist the link provided here:
+To use this application you can vist the link provided here: https://google-books-api-homework.herokuapp.com/
+
+<img src="/screenshot.png" alt="Screenshot>
 
 ## Contributing
 
